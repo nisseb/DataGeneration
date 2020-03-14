@@ -25,20 +25,20 @@ display data/image.png
 ### Setup
 
 Environment:
- * Clear environment
- * Set up simple camera + object + lights
+ * [x] Clear environment
+ * [x] Set up simple camera + object + lights
 
 ### Annotation
 
 Image:
- * Export image
- * Export png mask of object
+ * [x] Export image
+ * [ ] Export png mask of object
 
 Data:
- * 2D bounding box
- * 3D bounding box
- * Translation and rotation vector
- 
+ * [ ] 2D bounding box
+ * [ ] 3D bounding box
+ * [ ] Translation and rotation vector
+ * [ ] Annotation on MSCOCO format
  ## Future ideas
  
  ### Object
